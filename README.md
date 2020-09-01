@@ -9,5 +9,5 @@ brew tap iotexproject/ioctl-unstable
 ### ioctl
 To install the latest verison at master branch:
 ```
-brew install ioctl-unstable
+brew install --HEAD iotexproject/ioctl-unstable/ioctl-unstable
 ```
