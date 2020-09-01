@@ -11,7 +11,7 @@
 class IoctlUnstable < Formula
   desc "Command-line interface for interacting with the IoTeX blockchain"
   homepage "https://docs.iotex.io/developer/get-started/ioctl-install.html"
-  head https://github.com/iotexproject/iotex-core.git, :branch => "master"
+  head "https://github.com/iotexproject/iotex-core.git", :branch => "master"
   license "Apache-2.0"
 
   depends_on "go" => :build
